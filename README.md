@@ -1,2 +1,0 @@
-# RustPlayground
-Trying out Rust
